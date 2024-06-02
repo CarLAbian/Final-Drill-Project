@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\profile-page",
+    "\\profile-page\\components",
+    "\\profile-page\\mocks",
+    "\\profile-page\\pages",
+    "\\profile-page\\pages\\api",
+    "\\profile-page\\styles",
+    "\\profile-page\\__tests__"
+  ],
+  "SelectedNode": "\\profile-page\\mocks\\handlers.js",
+  "PreviewInSolutionExplorer": false
+}
